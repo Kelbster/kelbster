@@ -18,6 +18,18 @@ const RecentWork = () => (
     </Container>
     <ContainerWorkGrid>
       <Blurb
+        href="https://www.monster.com/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        <H3Blurb>Monster</H3Blurb>
+        <PBlurb>Connecting people and jobs</PBlurb>
+        <Card height="100px" maxWidth="360px">
+          <PCard>Role: Sr UX Engineer</PCard>
+          <PCard>Platform: React, TypeScript</PCard>
+        </Card>
+      </Blurb>
+      <Blurb
         href="https://www.ifit.com/"
         rel="noopener noreferrer"
         target="_blank"
@@ -30,7 +42,7 @@ const RecentWork = () => (
         </Card>
       </Blurb>
       <Blurb
-        href="https://www.ifitnourish.com/"
+        href="https://shop.ifit.com/pages/nutrition"
         rel="noopener noreferrer"
         target="_blank"
       >
