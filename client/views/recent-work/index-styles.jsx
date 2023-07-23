@@ -33,7 +33,7 @@ export const Blurb = styled.a`
   color: inherit;
   cursor: pointer;
   font-family: ${fontSpace};
-  margin-bottom: 16px;
+  margin-bottom: 24px;
   text-decoration: none;
 
   ${mediaQuery.mobile`
