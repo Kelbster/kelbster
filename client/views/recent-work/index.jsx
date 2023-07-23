@@ -18,6 +18,19 @@ const RecentWork = () => (
     </Container>
     <ContainerWorkGrid>
       <Blurb
+        href="https://www.amazongames.com/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        <H3Blurb>Amazon Games</H3Blurb>
+        <PBlurb>Player obsessed</PBlurb>
+        <Card height="116px" maxWidth="360px">
+          <PCard>Role: Design Technologist</PCard>
+          <PCard>Project(s): Multi-tenant design system, Player ID Site</PCard>
+          <PCard>Tech: Figma, React, TypeScript</PCard>
+        </Card>
+      </Blurb>
+      <Blurb
         href="https://www.monster.com/"
         rel="noopener noreferrer"
         target="_blank"
@@ -52,18 +65,6 @@ const RecentWork = () => (
         <Card height="116px" maxWidth="360px">
           <PCard>Role: Sr Front End Developer</PCard>
           <PCard>Platform: Shopify</PCard>
-        </Card>
-      </Blurb>
-      <Blurb
-        href="https://www.lgfit.co/"
-        rel="noopener noreferrer"
-        target="_blank"
-      >
-        <H3Blurb>LGFIT</H3Blurb>
-        <PBlurb>Health and Fitness Coaching</PBlurb>
-        <Card height="116px" maxWidth="360px">
-          <PCard>Role: Sole Developer</PCard>
-          <PCard>Platform: React, Webpack, Netlify</PCard>
         </Card>
       </Blurb>
       <Blurb
