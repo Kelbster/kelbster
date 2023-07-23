@@ -24,7 +24,7 @@ const RecentWork = () => (
       >
         <H3Blurb>Amazon Games</H3Blurb>
         <PBlurb>Player obsessed</PBlurb>
-        <Card height="116px" maxWidth="360px">
+        <Card height="136px" maxWidth="360px">
           <PCard>Role: Design Technologist</PCard>
           <PCard>Project(s): Multi-tenant design system, Player ID Site</PCard>
           <PCard>Tech: Figma, React, TypeScript</PCard>
